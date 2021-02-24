@@ -3,7 +3,9 @@ A system to convert English sentences into expressions of an interlingua called 
 
 # Example: 
 English sentence: John worked specially for the social fund.
+
 UNL representation: agt(work.@past.@entry, John), man(work.@past.@entry, specially), pur(work.@past.@entry, fund), mod(fund, social)
+
 Here agt (agent), man (manner of the action), pur (purpose) and mod (modifier) are the UNL relations.
 
 # Requirements:
