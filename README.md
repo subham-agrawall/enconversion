@@ -9,6 +9,17 @@ English sentence- John worked specially for the social fund.
 Here agt (agent), man (manner of the action), pur (purpose) and mod (modifier) are the UNL relations.
 
 ## Requirements
-1. spacy (pip install spacy)
-2. python -m spacy download en_core_web_sm
-3. 
+1. python-3
+2. pandas
+3. numpy
+4. nltk
+5. spacy (python -m spacy download en_core_web_sm)
+6.  
+
+## Inputs
+1. dictionary.csv - vocabulary with attributes
+2. commonwords.csv - custom list of stop words
+3. reldict.csv
+4. attr_data_en.json - attributes
+5. dict2.csv - Exceptional words dictionary
+6. Dictionary_excep.csv - Exceptional words dictionary
