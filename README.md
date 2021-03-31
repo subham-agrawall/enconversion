@@ -14,7 +14,6 @@ Here agt (agent), man (manner of the action), pur (purpose) and mod (modifier) a
 3. numpy
 4. nltk
 5. spacy (python -m spacy download en_core_web_sm)
-6.  
 
 ## Inputs
 1. dictionary.csv - vocabulary with attributes
